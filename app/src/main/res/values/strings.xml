@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PrivilegePageTest</string>
+    <string name="text"> \t\t\t\t无托管权益包含您在找块田平台上为全球
+        超过10亿用户创建和交付产品所需的全部服务，资源和支持。</string>
+    <string name="text1"> 88 找块田会员可享受 88 个农产品精选品牌、
+        找块田超市以及国际直营全店 9.5 折，
+        这一权益是可以与其他活动叠加使用的。</string>
+    <string name="text2"> 除了 95 折外，找块田会员还提供了 2 张 500-50
+        和 2 张 1000-100 的针对 3C 数码以及生活电器的专享购物券。</string>
+    <string name="text3"> 找块田闪电退货
+        当买家以“不喜欢/不想要/不适合”等个人退款原因申请退货退款的时候，
+        如果商品属于7天无理由范围，该笔退货退款申请无需等待卖家同意，
+        系统自动获取卖家退货地址显示给买家。</string>
+    <string name="text4">专享客服优先通道，无需等待，VIP客服为您快速处理问题。
+        免费领酒店延迟退房权益(满500分专享)</string>
+</resources>
