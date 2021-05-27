@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 ToastUtils.setStyle(new BlackToastStyle());
-                ToastUtils.show("AnimalOrder");
+                ToastUtils.show("AnimalOrder\n1111111\n222222222\n33333333");
 
 
                 Intent intent = new Intent(MainActivity.this, AnimalOrderActivity.class);
@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         LandOrder.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                ToastUtils.show("LandOrder");
+                ToastUtils.show("LandOrder\n1111111\n222222222\n33333333");
                 Intent intent = new Intent(MainActivity.this, LandOrderActivity.class);
                 startActivity(intent);
             }
