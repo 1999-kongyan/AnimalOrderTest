@@ -1,4 +1,4 @@
-package com.example.privilegepagetest;
+package com.example.privilegepagetest.Activity;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -14,6 +14,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.example.privilegepagetest.R;
 import com.example.privilegepagetest.fragment.AnimalOrderFragment;
 import com.google.android.material.tabs.TabLayout;
 
